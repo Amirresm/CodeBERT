@@ -7,7 +7,8 @@ This repo provides the code for reproducing the experiments on [CodeSearchNet](h
 ## Dependency
 
 - pip install torch==1.4.0
-- pip install transformers==2.5.0
+<!-- - pip install transformers==2.5.0 -->
+- pip install adapter-transformers
 - pip install filelock
 
 ## Data Preprocess
